@@ -4,7 +4,7 @@ Welcome to my portfolio repository! This project showcases my skills and experie
 This portfolio project is a showcase of my work, skills, and experience across various domains including web development, web design, and application development. It includes sections for projects, a blog with articles on design and related topics, and a contact form for reaching out to me.
 
 ## Demo
-You can view a live demo of the portfolio here ([link](https://abishekbalance.github.io/portfolio-V1/)).
+You can view a live demo of the portfolio here ([link](https://abishek-raj-ap.github.io/portfolio-V1/)).
 
 ## Technologies Used
 HTML5
